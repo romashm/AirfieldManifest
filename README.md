@@ -13,3 +13,8 @@ We are running an airfield manifesto, trying to implement a system that will hel
 <p align="center">
   <img src="https://sun9-41.userapi.com/impg/h3pLdllkrTKsqWPAHAvQNSYdW0Rb9euWeqQ-Qw/0rEGbYndN0k.jpg?size=1155x509&quality=96&sign=5bea7a3c0bf5409410fd4a56c4e53752&type=album">
 </p>
+<h2> ⚙️ Requirements </h2>
+<p> The key point is to understand exactly what the customer wants from us. If we only give him what we think is a great solution - this will lead to the loss of the client. There are levels of requirements for which we will work and reach the result. </p>
+<p align="center">
+  <img src="https://sun9-78.userapi.com/impg/OztLYL858xhPzzv_0wEB7Tksd71A8q2R-Wls0Q/oOqkKfv-_dM.jpg?size=1280x720&quality=96&sign=04427c3ae5ab7d718d64bedd21aa450d&type=album">
+</p>
